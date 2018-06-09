@@ -1,0 +1,48 @@
+body{
+	background-color: #000000;
+	color: white;
+}
+input{
+	width: 350px;
+}
+h1{
+	text-align: center;
+}
+h3{
+	margin-top: -20px;
+}
+.btn-primary{
+	width: 120px;
+	height: 30px;
+}
+
+.foto_topo {
+	width: 300px;
+}
+
+.icone_top{
+	margin-top: 110px;
+}
+.jumbotron{
+	color:white;
+	background-color: #363537;
+	margin-top: 20px;
+}
+.navbar-light{
+	background-color: #363537;
+	margin-top: 20px;
+}
+.navbar-nav img:hover{
+	background-color: #484848;
+}
+.span2{
+	margin-top: 50px;
+}
+.titulos{
+	margin-top: 50px;
+}
+.job {
+	margin-top: 20px;
+	width: 350px;
+	height:300px;
+}
